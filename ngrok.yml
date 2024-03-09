@@ -1,0 +1,8 @@
+version: "2"
+authtoken: YOUR_AUTHTOKEN
+region: eu
+web_addr: 127.0.0.1:4040
+tunnels:
+  server:
+    addr: YOUR_ADDRESS
+    proto: tcp
